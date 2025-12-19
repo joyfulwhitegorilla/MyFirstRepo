@@ -1,2 +1,2 @@
-What I have learnt
+What I have learned from this course
 I have learnt GitHub basics which have enabled me to create branches, commit changes, and create pull requests.I
